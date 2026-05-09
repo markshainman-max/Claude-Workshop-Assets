@@ -1,0 +1,221 @@
+AuditID,SupplierName,AuditDate,AuditType,ComplianceScore,CriticalFindingsCount,PrimaryFindingCategory,Auditor,RemediationDueDate,Status
+AUD-058,USA Rare Earth LLC,2024-01-02,Environmental Audit,82,0,Traceability,Intertek,2024-04-04,Closed
+AUD-128,Kazakhstan Metals,2024-01-03,Labor Audit,59,3,AntiCorruption,Intertek,2024-03-21,Open
+AUD-046,Northern Star Resources,2024-01-04,ESG Audit,85,0,Safety,SGS,2024-03-25,Closed
+AUD-004,Pacific Rim Mining,2024-01-07,Security Audit,94,0,Environmental,BureauVeritas,2024-04-24,Open
+AUD-188,Congo Mineral Group,2024-01-08,ESG Audit,85,5,Security,DNV,2024-04-08,In Progress
+AUD-043,Northern Star Resources,2024-01-09,Security Audit,86,0,Traceability,KPMG Advisory,2024-04-20,Closed
+AUD-017,Pacific Rim Mining,2024-01-12,Safety Audit,87,1,Environmental,SGS,2024-04-24,Closed
+AUD-089,Chilean Copper Corp,2024-01-13,Environmental Audit,64,4,Safety,BureauVeritas,2024-05-06,In Progress
+AUD-103,Chilean Copper Corp,2024-01-13,Safety Audit,71,3,Environmental,TUV,2024-04-18,Closed
+AUD-032,Northern Star Resources,2024-01-16,Environmental Audit,89,0,Security,SGS,2024-03-21,Closed
+AUD-096,Chilean Copper Corp,2024-01-18,Environmental Audit,70,3,Safety,BureauVeritas,2024-03-23,Closed
+AUD-082,USA Rare Earth LLC,2024-01-20,ESG Audit,94,0,Safety,KPMG Advisory,2024-05-06,Closed
+AUD-179,Congo Mineral Group,2024-01-27,ESG Audit,80,4,Environmental,Intertek,2024-05-04,Open
+AUD-003,Pacific Rim Mining,2024-01-28,Environmental Audit,90,1,AntiCorruption,PwC Assurance,2024-05-02,Closed
+AUD-079,USA Rare Earth LLC,2024-01-28,Environmental Audit,80,0,Labor,TUV,2024-05-25,Closed
+AUD-168,Congo Mineral Group,2024-02-01,Environmental Audit,62,5,Safety,KPMG Advisory,2024-04-04,Overdue
+AUD-038,Northern Star Resources,2024-02-10,Labor Audit,81,0,AntiCorruption,DNV,2024-05-19,Open
+AUD-049,Northern Star Resources,2024-02-10,Labor Audit,81,0,Security,DNV,2024-06-06,Closed
+AUD-114,Kazakhstan Metals,2024-02-10,Labor Audit,70,2,Environmental,KPMG Advisory,2024-06-05,Open
+AUD-148,Sino Rare Metals,2024-02-10,Labor Audit,69,1,Environmental,Intertek,2024-04-29,Closed
+AUD-083,USA Rare Earth LLC,2024-02-11,ESG Audit,89,0,Labor,BureauVeritas,2024-05-29,Open
+AUD-201,Ural Mining Co,2024-02-12,Labor Audit,65,3,Security,DNV,2024-05-10,Overdue
+AUD-006,Pacific Rim Mining,2024-02-14,Environmental Audit,90,1,Traceability,DNV,2024-05-30,Closed
+AUD-105,Chilean Copper Corp,2024-02-24,ESG Audit,79,3,Traceability,DNV,2024-05-03,Closed
+AUD-219,Ural Mining Co,2024-02-24,ESG Audit,52,2,Traceability,PwC Assurance,2024-05-19,Overdue
+AUD-187,Congo Mineral Group,2024-02-26,Security Audit,72,3,Environmental,KPMG Advisory,2024-04-26,Overdue
+AUD-175,Congo Mineral Group,2024-03-02,Security Audit,76,2,Safety,TUV,2024-06-07,Overdue
+AUD-016,Pacific Rim Mining,2024-03-06,Labor Audit,89,1,Environmental,DNV,2024-05-29,Open
+AUD-026,Pacific Rim Mining,2024-03-13,Safety Audit,90,0,Traceability,TUV,2024-06-26,Closed
+AUD-010,Pacific Rim Mining,2024-03-14,ESG Audit,86,0,Security,SGS,2024-06-20,Closed
+AUD-109,Chilean Copper Corp,2024-03-17,Safety Audit,81,4,Labor,PwC Assurance,2024-05-26,In Progress
+AUD-072,USA Rare Earth LLC,2024-03-20,Security Audit,79,1,Environmental,PwC Assurance,2024-07-03,Closed
+AUD-211,Ural Mining Co,2024-03-20,Labor Audit,59,2,Labor,DNV,2024-06-06,Overdue
+AUD-073,USA Rare Earth LLC,2024-03-23,ESG Audit,88,0,Traceability,SGS,2024-05-30,Open
+AUD-184,Congo Mineral Group,2024-03-24,Environmental Audit,63,5,AntiCorruption,SGS,2024-06-09,Overdue
+AUD-022,Pacific Rim Mining,2024-03-28,Labor Audit,88,1,Labor,BureauVeritas,2024-07-12,Closed
+AUD-174,Congo Mineral Group,2024-03-28,Security Audit,72,5,Labor,DNV,2024-06-01,Open
+AUD-200,Ural Mining Co,2024-04-02,Labor Audit,65,5,AntiCorruption,TUV,2024-07-10,Overdue
+AUD-115,Kazakhstan Metals,2024-04-03,Security Audit,79,3,AntiCorruption,KPMG Advisory,2024-06-16,Closed
+AUD-157,Sino Rare Metals,2024-04-09,Labor Audit,80,1,Security,DNV,2024-06-23,In Progress
+AUD-220,Ural Mining Co,2024-04-11,ESG Audit,57,4,Traceability,PwC Assurance,2024-08-02,In Progress
+AUD-041,Northern Star Resources,2024-04-12,Safety Audit,80,0,Labor,PwC Assurance,2024-06-15,Closed
+AUD-133,Kazakhstan Metals,2024-04-12,ESG Audit,69,2,Security,TUV,2024-08-05,Closed
+AUD-177,Congo Mineral Group,2024-04-16,Safety Audit,62,5,Environmental,TUV,2024-07-21,In Progress
+AUD-118,Kazakhstan Metals,2024-04-17,Environmental Audit,53,1,Safety,SGS,2024-08-09,Open
+AUD-019,Pacific Rim Mining,2024-04-18,Security Audit,83,0,Labor,DNV,2024-08-11,Closed
+AUD-052,Northern Star Resources,2024-04-20,ESG Audit,81,0,Labor,TUV,2024-07-13,Open
+AUD-001,Pacific Rim Mining,2024-04-24,Labor Audit,88,0,Traceability,DNV,2024-06-24,Closed
+AUD-084,Chilean Copper Corp,2024-04-27,Security Audit,74,2,Environmental,BureauVeritas,2024-08-01,In Progress
+AUD-085,Chilean Copper Corp,2024-04-27,Safety Audit,81,1,Environmental,DNV,2024-08-14,Open
+AUD-156,Sino Rare Metals,2024-04-29,Security Audit,73,0,Security,KPMG Advisory,2024-07-06,Closed
+AUD-123,Kazakhstan Metals,2024-05-04,Security Audit,76,1,AntiCorruption,KPMG Advisory,2024-07-04,In Progress
+AUD-170,Congo Mineral Group,2024-05-09,Environmental Audit,65,6,AntiCorruption,DNV,2024-07-25,Overdue
+AUD-149,Sino Rare Metals,2024-05-14,ESG Audit,81,1,Labor,TUV,2024-07-18,Closed
+AUD-069,USA Rare Earth LLC,2024-05-16,Labor Audit,79,1,Safety,DNV,2024-09-04,Closed
+AUD-031,Northern Star Resources,2024-05-23,Labor Audit,86,0,Traceability,KPMG Advisory,2024-08-18,Open
+AUD-207,Ural Mining Co,2024-05-24,Labor Audit,47,5,Safety,KPMG Advisory,2024-09-19,In Progress
+AUD-181,Congo Mineral Group,2024-05-26,Labor Audit,65,2,Labor,SGS,2024-08-30,Open
+AUD-048,Northern Star Resources,2024-05-31,Security Audit,85,0,Environmental,TUV,2024-08-26,Closed
+AUD-202,Ural Mining Co,2024-06-03,Security Audit,53,5,Safety,KPMG Advisory,2024-08-05,Open
+AUD-132,Kazakhstan Metals,2024-06-04,Labor Audit,66,1,AntiCorruption,PwC Assurance,2024-09-03,In Progress
+AUD-125,Kazakhstan Metals,2024-06-06,Environmental Audit,72,3,Security,SGS,2024-09-05,Open
+AUD-050,Northern Star Resources,2024-06-07,ESG Audit,89,0,Security,KPMG Advisory,2024-10-04,Closed
+AUD-134,Kazakhstan Metals,2024-06-07,Security Audit,65,2,AntiCorruption,Intertek,2024-08-10,Open
+AUD-158,Sino Rare Metals,2024-06-07,Environmental Audit,76,1,AntiCorruption,SGS,2024-10-01,Closed
+AUD-044,Northern Star Resources,2024-06-08,Security Audit,81,1,Labor,Intertek,2024-08-24,Closed
+AUD-018,Pacific Rim Mining,2024-06-10,Labor Audit,83,0,Labor,DNV,2024-09-07,Closed
+AUD-142,Sino Rare Metals,2024-06-10,Labor Audit,81,1,Environmental,Intertek,2024-08-13,In Progress
+AUD-204,Ural Mining Co,2024-06-11,Environmental Audit,62,4,Security,TUV,2024-09-02,Overdue
+AUD-112,Kazakhstan Metals,2024-06-18,Environmental Audit,70,2,Traceability,SGS,2024-10-06,Open
+AUD-194,Ural Mining Co,2024-06-21,Labor Audit,59,2,Labor,TUV,2024-08-24,Overdue
+AUD-116,Kazakhstan Metals,2024-06-28,Security Audit,65,3,Labor,DNV,2024-09-26,Open
+AUD-051,Northern Star Resources,2024-07-02,Security Audit,91,1,Labor,TUV,2024-10-17,Closed
+AUD-037,Northern Star Resources,2024-07-09,Safety Audit,80,0,AntiCorruption,BureauVeritas,2024-09-11,Open
+AUD-161,Sino Rare Metals,2024-07-13,Labor Audit,86,0,Traceability,KPMG Advisory,2024-09-18,Closed
+AUD-099,Chilean Copper Corp,2024-07-16,ESG Audit,80,2,Safety,SGS,2024-10-04,Closed
+AUD-111,Kazakhstan Metals,2024-07-21,ESG Audit,71,1,Traceability,KPMG Advisory,2024-10-16,Open
+AUD-196,Ural Mining Co,2024-07-21,ESG Audit,45,3,Safety,SGS,2024-09-30,Open
+AUD-024,Pacific Rim Mining,2024-07-24,Security Audit,88,1,Security,DNV,2024-11-06,Open
+AUD-108,Chilean Copper Corp,2024-08-04,ESG Audit,68,1,Labor,DNV,2024-10-19,Closed
+AUD-033,Northern Star Resources,2024-08-06,Environmental Audit,83,1,Environmental,TUV,2024-11-29,Closed
+AUD-210,Ural Mining Co,2024-08-07,ESG Audit,52,5,Labor,BureauVeritas,2024-10-27,In Progress
+AUD-005,Pacific Rim Mining,2024-08-08,Security Audit,88,0,AntiCorruption,PwC Assurance,2024-11-24,Closed
+AUD-163,Sino Rare Metals,2024-08-09,Security Audit,81,0,Labor,BureauVeritas,2024-11-29,Closed
+AUD-035,Northern Star Resources,2024-08-10,Safety Audit,80,1,AntiCorruption,SGS,2024-10-12,Closed
+AUD-077,USA Rare Earth LLC,2024-08-13,Security Audit,87,0,Safety,Intertek,2024-11-12,Closed
+AUD-065,USA Rare Earth LLC,2024-08-18,Labor Audit,86,0,Traceability,SGS,2024-12-07,Closed
+AUD-152,Sino Rare Metals,2024-08-19,Labor Audit,87,2,Environmental,KPMG Advisory,2024-12-12,Open
+AUD-008,Pacific Rim Mining,2024-08-21,ESG Audit,82,1,Traceability,SGS,2024-12-08,Closed
+AUD-189,Congo Mineral Group,2024-08-23,Environmental Audit,55,4,Safety,KPMG Advisory,2024-11-23,Open
+AUD-131,Kazakhstan Metals,2024-08-27,Environmental Audit,68,3,Security,Intertek,2024-12-19,Open
+AUD-087,Chilean Copper Corp,2024-09-05,Safety Audit,70,1,Environmental,DNV,2024-11-10,Open
+AUD-067,USA Rare Earth LLC,2024-09-06,ESG Audit,85,0,Labor,TUV,2024-11-14,Closed
+AUD-126,Kazakhstan Metals,2024-09-06,Environmental Audit,65,3,Labor,DNV,2024-12-04,In Progress
+AUD-071,USA Rare Earth LLC,2024-09-10,ESG Audit,80,1,Environmental,SGS,2025-01-01,Open
+AUD-147,Sino Rare Metals,2024-09-13,Safety Audit,78,2,Safety,Intertek,2024-12-25,Closed
+AUD-164,Congo Mineral Group,2024-09-13,Safety Audit,61,3,Labor,KPMG Advisory,2025-01-02,Open
+AUD-216,Ural Mining Co,2024-09-13,Labor Audit,45,5,Traceability,Intertek,2024-11-15,Overdue
+AUD-120,Kazakhstan Metals,2024-09-15,Labor Audit,64,1,Traceability,Intertek,2024-12-04,Open
+AUD-014,Pacific Rim Mining,2024-09-26,Security Audit,85,1,Labor,BureauVeritas,2025-01-11,Open
+AUD-045,Northern Star Resources,2024-09-27,Environmental Audit,76,0,Environmental,KPMG Advisory,2024-12-28,Closed
+AUD-056,Northern Star Resources,2024-09-28,Security Audit,78,0,Safety,TUV,2024-11-29,Open
+AUD-122,Kazakhstan Metals,2024-09-30,Environmental Audit,70,1,Safety,SGS,2025-01-03,Open
+AUD-011,Pacific Rim Mining,2024-10-03,ESG Audit,85,1,Traceability,TUV,2025-01-30,Closed
+AUD-094,Chilean Copper Corp,2024-10-09,ESG Audit,73,1,Traceability,BureauVeritas,2025-01-12,Open
+AUD-100,Chilean Copper Corp,2024-10-10,ESG Audit,79,3,Environmental,BureauVeritas,2025-01-24,Closed
+AUD-009,Pacific Rim Mining,2024-10-11,ESG Audit,86,1,Safety,PwC Assurance,2025-01-08,Closed
+AUD-159,Sino Rare Metals,2024-10-13,Security Audit,76,1,Traceability,Intertek,2024-12-14,Closed
+AUD-110,Chilean Copper Corp,2024-10-16,ESG Audit,73,4,Environmental,TUV,2025-01-28,Closed
+AUD-064,USA Rare Earth LLC,2024-10-17,ESG Audit,87,1,Safety,PwC Assurance,2025-01-17,Closed
+AUD-042,Northern Star Resources,2024-10-18,Labor Audit,83,1,Safety,DNV,2024-12-27,Closed
+AUD-062,USA Rare Earth LLC,2024-10-20,Labor Audit,82,1,Safety,PwC Assurance,2025-01-01,Open
+AUD-146,Sino Rare Metals,2024-10-20,ESG Audit,78,0,Safety,BureauVeritas,2025-02-06,In Progress
+AUD-137,Kazakhstan Metals,2024-10-21,Environmental Audit,67,1,Labor,Intertek,2025-01-03,Closed
+AUD-119,Kazakhstan Metals,2024-10-22,Environmental Audit,78,3,Traceability,PwC Assurance,2025-02-01,Closed
+AUD-102,Chilean Copper Corp,2024-10-26,Environmental Audit,84,2,Traceability,TUV,2025-02-07,Open
+AUD-007,Pacific Rim Mining,2024-10-27,Safety Audit,83,1,Traceability,Intertek,2025-02-17,Closed
+AUD-171,Congo Mineral Group,2024-10-28,Environmental Audit,58,2,Security,BureauVeritas,2025-01-25,In Progress
+AUD-107,Chilean Copper Corp,2024-10-31,Safety Audit,65,1,Labor,Intertek,2025-02-23,Open
+AUD-138,Kazakhstan Metals,2024-11-02,Security Audit,61,1,Traceability,PwC Assurance,2025-02-27,Closed
+AUD-040,Northern Star Resources,2024-11-03,Safety Audit,90,1,Security,DNV,2025-01-31,Closed
+AUD-113,Kazakhstan Metals,2024-11-07,Environmental Audit,64,3,Traceability,DNV,2025-02-19,Open
+AUD-097,Chilean Copper Corp,2024-11-09,Labor Audit,65,3,Environmental,PwC Assurance,2025-02-19,In Progress
+AUD-180,Congo Mineral Group,2024-11-12,Safety Audit,60,4,Labor,TUV,2025-03-10,Overdue
+AUD-208,Ural Mining Co,2024-11-13,ESG Audit,72,5,Safety,Intertek,2025-02-16,Overdue
+AUD-173,Congo Mineral Group,2024-11-16,Safety Audit,64,3,Traceability,TUV,2025-02-11,Overdue
+AUD-057,Northern Star Resources,2024-11-17,Security Audit,81,1,Traceability,Intertek,2025-02-12,Closed
+AUD-013,Pacific Rim Mining,2024-11-18,Security Audit,86,1,Labor,BureauVeritas,2025-01-30,Closed
+AUD-012,Pacific Rim Mining,2024-11-19,ESG Audit,85,1,AntiCorruption,Intertek,2025-02-12,Closed
+AUD-039,Northern Star Resources,2024-11-19,Security Audit,84,1,Security,BureauVeritas,2025-03-18,Closed
+AUD-093,Chilean Copper Corp,2024-11-28,Security Audit,65,3,AntiCorruption,Intertek,2025-02-07,In Progress
+AUD-183,Congo Mineral Group,2024-11-28,ESG Audit,77,2,AntiCorruption,KPMG Advisory,2025-03-17,In Progress
+AUD-060,USA Rare Earth LLC,2024-11-30,ESG Audit,94,1,Labor,SGS,2025-02-23,Open
+AUD-155,Sino Rare Metals,2024-12-01,Security Audit,72,2,Safety,SGS,2025-03-29,Open
+AUD-027,Pacific Rim Mining,2024-12-04,Labor Audit,85,1,Labor,Intertek,2025-02-06,Closed
+AUD-059,USA Rare Earth LLC,2024-12-04,Security Audit,82,1,Safety,SGS,2025-03-13,Open
+AUD-162,Sino Rare Metals,2024-12-07,Safety Audit,75,0,AntiCorruption,BureauVeritas,2025-02-20,Closed
+AUD-205,Ural Mining Co,2024-12-12,Security Audit,47,4,Traceability,DNV,2025-03-25,Open
+AUD-030,Pacific Rim Mining,2024-12-13,ESG Audit,91,0,Labor,DNV,2025-04-03,Closed
+AUD-195,Ural Mining Co,2024-12-23,Safety Audit,56,3,Labor,PwC Assurance,2025-03-15,In Progress
+AUD-076,USA Rare Earth LLC,2024-12-26,Labor Audit,82,1,Safety,Intertek,2025-03-15,Closed
+AUD-165,Congo Mineral Group,2025-01-01,Security Audit,69,2,Traceability,BureauVeritas,2025-04-21,In Progress
+AUD-139,Kazakhstan Metals,2025-01-02,ESG Audit,63,2,Labor,KPMG Advisory,2025-03-26,In Progress
+AUD-101,Chilean Copper Corp,2025-01-04,Safety Audit,68,2,Traceability,DNV,2025-03-16,In Progress
+AUD-167,Congo Mineral Group,2025-01-05,Labor Audit,59,3,Environmental,SGS,2025-04-07,Open
+AUD-021,Pacific Rim Mining,2025-01-06,ESG Audit,96,0,AntiCorruption,KPMG Advisory,2025-05-02,Closed
+AUD-150,Sino Rare Metals,2025-01-09,ESG Audit,75,2,Environmental,TUV,2025-04-12,In Progress
+AUD-160,Sino Rare Metals,2025-01-11,Safety Audit,74,2,Security,PwC Assurance,2025-04-15,In Progress
+AUD-178,Congo Mineral Group,2025-01-11,Environmental Audit,66,4,AntiCorruption,TUV,2025-03-19,In Progress
+AUD-154,Sino Rare Metals,2025-01-15,Environmental Audit,80,2,Traceability,DNV,2025-03-22,Closed
+AUD-086,Chilean Copper Corp,2025-01-19,Labor Audit,54,2,Safety,TUV,2025-04-14,Closed
+AUD-212,Ural Mining Co,2025-01-20,Labor Audit,55,3,Labor,Intertek,2025-03-30,In Progress
+AUD-061,USA Rare Earth LLC,2025-01-23,Labor Audit,85,1,Traceability,PwC Assurance,2025-05-06,Closed
+AUD-144,Sino Rare Metals,2025-01-25,Security Audit,87,1,Traceability,TUV,2025-05-01,In Progress
+AUD-140,Kazakhstan Metals,2025-01-26,Environmental Audit,69,3,AntiCorruption,BureauVeritas,2025-05-05,In Progress
+AUD-206,Ural Mining Co,2025-01-30,ESG Audit,50,4,Environmental,KPMG Advisory,2025-04-18,Overdue
+AUD-153,Sino Rare Metals,2025-02-08,Labor Audit,77,1,Security,TUV,2025-04-09,In Progress
+AUD-145,Sino Rare Metals,2025-02-09,Labor Audit,87,2,Safety,SGS,2025-04-27,Closed
+AUD-135,Kazakhstan Metals,2025-02-11,Security Audit,72,3,Safety,Intertek,2025-05-23,Open
+AUD-054,Northern Star Resources,2025-02-12,Security Audit,91,1,Environmental,Intertek,2025-05-04,Closed
+AUD-078,USA Rare Earth LLC,2025-02-18,ESG Audit,91,0,AntiCorruption,DNV,2025-06-04,Closed
+AUD-191,Congo Mineral Group,2025-02-18,Security Audit,62,5,Labor,TUV,2025-06-03,Open
+AUD-095,Chilean Copper Corp,2025-02-20,Environmental Audit,67,4,Security,TUV,2025-05-22,Open
+AUD-074,USA Rare Earth LLC,2025-02-21,Safety Audit,89,1,Labor,TUV,2025-05-13,Closed
+AUD-124,Kazakhstan Metals,2025-02-21,Environmental Audit,66,1,Traceability,Intertek,2025-04-27,Closed
+AUD-172,Congo Mineral Group,2025-02-27,Environmental Audit,66,5,Safety,KPMG Advisory,2025-05-19,Overdue
+AUD-066,USA Rare Earth LLC,2025-02-28,Environmental Audit,87,0,Security,SGS,2025-06-24,Open
+AUD-185,Congo Mineral Group,2025-02-28,Safety Audit,69,4,Environmental,Intertek,2025-05-16,Overdue
+AUD-106,Chilean Copper Corp,2025-03-02,Environmental Audit,81,2,Security,SGS,2025-06-08,Open
+AUD-182,Congo Mineral Group,2025-03-05,Security Audit,64,4,Environmental,Intertek,2025-06-02,In Progress
+AUD-075,USA Rare Earth LLC,2025-03-06,Environmental Audit,91,0,Security,KPMG Advisory,2025-05-29,Open
+AUD-166,Congo Mineral Group,2025-03-07,Environmental Audit,56,2,Security,TUV,2025-06-08,Open
+AUD-002,Pacific Rim Mining,2025-03-08,ESG Audit,86,0,Labor,DNV,2025-05-09,Closed
+AUD-176,Congo Mineral Group,2025-03-09,Labor Audit,64,2,Environmental,PwC Assurance,2025-07-02,Overdue
+AUD-143,Sino Rare Metals,2025-03-10,Environmental Audit,77,0,Traceability,BureauVeritas,2025-06-22,Open
+AUD-070,USA Rare Earth LLC,2025-03-12,Environmental Audit,87,1,Security,PwC Assurance,2025-07-03,Closed
+AUD-047,Northern Star Resources,2025-03-13,Security Audit,86,0,AntiCorruption,DNV,2025-06-16,Closed
+AUD-088,Chilean Copper Corp,2025-03-14,Labor Audit,66,3,Safety,PwC Assurance,2025-06-24,Closed
+AUD-029,Pacific Rim Mining,2025-03-17,Safety Audit,85,0,Security,Intertek,2025-06-07,Closed
+AUD-090,Chilean Copper Corp,2025-03-21,Labor Audit,77,3,Security,SGS,2025-05-31,Open
+AUD-091,Chilean Copper Corp,2025-03-22,Security Audit,72,2,Security,BureauVeritas,2025-07-12,Closed
+AUD-117,Kazakhstan Metals,2025-03-22,Environmental Audit,74,2,Environmental,PwC Assurance,2025-06-30,Open
+AUD-190,Congo Mineral Group,2025-03-22,Security Audit,62,5,AntiCorruption,SGS,2025-05-22,Open
+AUD-193,Ural Mining Co,2025-03-22,ESG Audit,55,4,Environmental,TUV,2025-06-27,Overdue
+AUD-218,Ural Mining Co,2025-03-23,Security Audit,60,3,Traceability,SGS,2025-05-27,Overdue
+AUD-213,Ural Mining Co,2025-03-24,Labor Audit,49,3,Environmental,TUV,2025-05-25,Overdue
+AUD-215,Ural Mining Co,2025-03-27,ESG Audit,59,5,AntiCorruption,BureauVeritas,2025-06-24,In Progress
+AUD-214,Ural Mining Co,2025-04-04,Environmental Audit,63,3,Labor,PwC Assurance,2025-06-17,Overdue
+AUD-025,Pacific Rim Mining,2025-04-07,Labor Audit,89,0,Labor,KPMG Advisory,2025-06-13,Closed
+AUD-098,Chilean Copper Corp,2025-04-09,ESG Audit,68,3,Traceability,Intertek,2025-06-25,In Progress
+AUD-034,Northern Star Resources,2025-04-10,ESG Audit,85,1,Labor,PwC Assurance,2025-06-27,Open
+AUD-081,USA Rare Earth LLC,2025-04-10,Security Audit,80,1,Traceability,SGS,2025-06-29,Closed
+AUD-130,Kazakhstan Metals,2025-04-11,ESG Audit,73,2,AntiCorruption,SGS,2025-08-08,In Progress
+AUD-053,Northern Star Resources,2025-04-16,Safety Audit,82,0,Safety,BureauVeritas,2025-07-07,Closed
+AUD-192,Ural Mining Co,2025-04-16,Environmental Audit,53,4,Traceability,BureauVeritas,2025-08-07,Open
+AUD-080,USA Rare Earth LLC,2025-04-17,Environmental Audit,89,0,Environmental,BureauVeritas,2025-06-27,Closed
+AUD-141,Sino Rare Metals,2025-04-17,Security Audit,77,0,Safety,DNV,2025-07-26,Open
+AUD-121,Kazakhstan Metals,2025-04-18,Environmental Audit,74,3,Traceability,BureauVeritas,2025-07-13,Open
+AUD-092,Chilean Copper Corp,2025-04-20,Safety Audit,66,4,Security,TUV,2025-07-25,In Progress
+AUD-197,Ural Mining Co,2025-04-20,ESG Audit,49,4,Security,KPMG Advisory,2025-08-06,Overdue
+AUD-063,USA Rare Earth LLC,2025-04-21,ESG Audit,82,1,Safety,KPMG Advisory,2025-07-18,Open
+AUD-198,Ural Mining Co,2025-04-25,Labor Audit,54,4,Traceability,PwC Assurance,2025-07-22,Overdue
+AUD-028,Pacific Rim Mining,2025-04-29,ESG Audit,88,1,Traceability,KPMG Advisory,2025-07-13,Open
+AUD-023,Pacific Rim Mining,2025-05-01,Labor Audit,86,1,Safety,Intertek,2025-08-29,Closed
+AUD-104,Chilean Copper Corp,2025-05-04,Environmental Audit,81,1,Traceability,DNV,2025-07-10,In Progress
+AUD-151,Sino Rare Metals,2025-05-08,Safety Audit,75,0,Labor,TUV,2025-08-27,Open
+AUD-186,Congo Mineral Group,2025-05-13,ESG Audit,76,4,Security,DNV,2025-08-14,Open
+AUD-136,Kazakhstan Metals,2025-05-14,Labor Audit,70,3,Traceability,BureauVeritas,2025-09-06,Closed
+AUD-129,Kazakhstan Metals,2025-05-16,Labor Audit,72,2,AntiCorruption,SGS,2025-09-08,Open
+AUD-169,Congo Mineral Group,2025-05-17,Labor Audit,69,2,Labor,KPMG Advisory,2025-08-30,Overdue
+AUD-036,Northern Star Resources,2025-05-29,Labor Audit,82,0,Traceability,TUV,2025-09-24,Closed
+AUD-203,Ural Mining Co,2025-05-31,Labor Audit,60,5,AntiCorruption,DNV,2025-09-09,Overdue
+AUD-199,Ural Mining Co,2025-06-03,Security Audit,55,2,Traceability,Intertek,2025-08-06,Overdue
+AUD-127,Kazakhstan Metals,2025-06-04,Security Audit,76,2,AntiCorruption,PwC Assurance,2025-09-19,Open
+AUD-015,Pacific Rim Mining,2025-06-05,ESG Audit,90,0,Safety,SGS,2025-09-04,Closed
+AUD-055,Northern Star Resources,2025-06-05,Safety Audit,81,1,Environmental,BureauVeritas,2025-08-29,Closed
+AUD-217,Ural Mining Co,2025-06-12,Environmental Audit,60,3,AntiCorruption,BureauVeritas,2025-10-04,Overdue
+AUD-068,USA Rare Earth LLC,2025-06-14,ESG Audit,85,0,Traceability,SGS,2025-09-11,Open
+AUD-209,Ural Mining Co,2025-06-23,Security Audit,53,4,Environmental,BureauVeritas,2025-08-27,Open
+AUD-020,Pacific Rim Mining,2025-06-27,Environmental Audit,83,0,Traceability,KPMG Advisory,2025-10-23,Closed

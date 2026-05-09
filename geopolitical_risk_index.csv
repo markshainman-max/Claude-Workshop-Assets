@@ -1,0 +1,11 @@
+Country,RiskScore,RiskCategory,Notes
+Australia,1,Low,Stable democracy, strong trade partner
+Canada,1,Low,Stable democracy, strong trade partner
+USA,1,Low,Domestic production, fully aligned
+Chile,3,Low-Medium,Stable but resource nationalism risk
+Kazakhstan,6,Medium,Authoritarian governance, Russia-aligned
+DRC,8,High,Active conflict zones, governance instability
+China,7,High,Strategic competitor, export restriction risk
+Russia,10,Critical,Sanctioned, active geopolitical aggressor
+Brazil,4,Medium,Political volatility, environmental regulation risk
+South Africa,5,Medium,Labor instability, infrastructure challenges

@@ -1,0 +1,501 @@
+ShipmentID,SupplierName,CountryOfOrigin,MineralType,WeightTons,ShipmentDate
+S0099,USA Rare Earth LLC,USA,Lithium,96.5,2024-01-01
+S0094,Kazakhstan Metals,Kazakhstan,Niobium,95.4,2024-01-02
+S0204,Sino Rare Metals,China,Lithium,117.4,2024-01-03
+S0005,Chilean Copper Corp,Chile,Lithium,196.6,2024-01-07
+S0489,Kazakhstan Metals,Kazakhstan,Uranium,75.1,2024-01-12
+S0141,Northern Star Resources,Canada,Lithium,216.6,2024-01-13
+S0161,Chilean Copper Corp,Chile,Lithium,143.3,2024-01-15
+S0051,Pacific Rim Mining,Australia,Cobalt,199.9,2024-01-16
+S0213,Northern Star Resources,Canada,Lithium,263.9,2024-01-16
+S0370,Congo Mineral Group,DRC,Cobalt,250.7,2024-01-17
+S0152,Ural Mining Co,Russia,Nickel,56.9,2024-01-18
+S0448,Ural Mining Co,Russia,Nickel,58.5,2024-01-18
+S0031,Pacific Rim Mining,Australia,Cobalt,118.9,2024-01-20
+S0360,Ural Mining Co,Russia,Palladium,84.4,2024-01-20
+S0119,Chilean Copper Corp,Chile,Lithium,170.6,2024-01-21
+S0132,Pacific Rim Mining,Australia,Lithium,103.9,2024-01-21
+S0308,Congo Mineral Group,DRC,Cobalt,223.0,2024-01-22
+S0405,USA Rare Earth LLC,USA,Neodymium,131.1,2024-01-27
+S0125,Pacific Rim Mining,Australia,Nickel,151.0,2024-01-28
+S0354,Chilean Copper Corp,Chile,Lithium,235.0,2024-01-28
+S0270,Kazakhstan Metals,Kazakhstan,Uranium,92.2,2024-02-01
+S0292,Congo Mineral Group,DRC,Cobalt,228.4,2024-02-01
+S0419,Chilean Copper Corp,Chile,Lithium,200.4,2024-02-01
+S0392,Sino Rare Metals,China,Cobalt,212.9,2024-02-03
+S0211,Congo Mineral Group,DRC,Cobalt,299.1,2024-02-07
+S0476,Northern Star Resources,Canada,Lithium,203.3,2024-02-08
+S0237,USA Rare Earth LLC,USA,Neodymium,141.3,2024-02-10
+S0327,Northern Star Resources,Canada,Lithium,216.3,2024-02-10
+S0131,Sino Rare Metals,China,Neodymium,171.0,2024-02-11
+S0324,Congo Mineral Group,DRC,Cobalt,316.1,2024-02-12
+S0305,Sino Rare Metals,China,Neodymium,135.6,2024-02-13
+S0386,USA Rare Earth LLC,USA,Lithium,91.6,2024-02-13
+S0269,Northern Star Resources,Canada,Nickel,190.7,2024-02-14
+S0369,Pacific Rim Mining,Australia,Nickel,184.8,2024-02-14
+S0250,Kazakhstan Metals,Kazakhstan,Uranium,65.8,2024-02-16
+S0378,Kazakhstan Metals,Kazakhstan,Uranium,103.1,2024-02-18
+S0234,Kazakhstan Metals,Kazakhstan,Niobium,88.3,2024-02-20
+S0296,Pacific Rim Mining,Australia,Lithium,98.9,2024-02-20
+S0057,Pacific Rim Mining,Australia,Cobalt,117.6,2024-02-21
+S0073,Ural Mining Co,Russia,Nickel,84.3,2024-02-22
+S0165,Ural Mining Co,Russia,Nickel,50.4,2024-02-22
+S0130,Ural Mining Co,Russia,Palladium,74.9,2024-02-23
+S0266,Sino Rare Metals,China,Neodymium,104.4,2024-02-23
+S0330,Congo Mineral Group,DRC,Cobalt,354.9,2024-02-23
+S0167,Congo Mineral Group,DRC,Cobalt,214.8,2024-02-24
+S0046,Congo Mineral Group,DRC,Cobalt,293.4,2024-02-25
+S0162,USA Rare Earth LLC,USA,Lithium,64.1,2024-02-25
+S0411,USA Rare Earth LLC,USA,Lithium,105.3,2024-02-26
+S0017,Chilean Copper Corp,Chile,Lithium,229.6,2024-02-27
+S0222,Pacific Rim Mining,Australia,Lithium,118.9,2024-02-27
+S0322,Kazakhstan Metals,Kazakhstan,Uranium,82.6,2024-02-28
+S0056,USA Rare Earth LLC,USA,Neodymium,86.7,2024-02-29
+S0040,Chilean Copper Corp,Chile,Lithium,129.2,2024-03-01
+S0053,Ural Mining Co,Russia,Palladium,81.9,2024-03-01
+S0475,Kazakhstan Metals,Kazakhstan,Uranium,74.3,2024-03-01
+S0171,Kazakhstan Metals,Kazakhstan,Uranium,75.3,2024-03-02
+S0422,Kazakhstan Metals,Kazakhstan,Uranium,63.6,2024-03-02
+S0118,Sino Rare Metals,China,Lithium,145.2,2024-03-04
+S0490,Kazakhstan Metals,Kazakhstan,Uranium,94.6,2024-03-04
+S0267,USA Rare Earth LLC,USA,Lithium,107.3,2024-03-06
+S0166,Kazakhstan Metals,Kazakhstan,Uranium,65.7,2024-03-07
+S0059,Northern Star Resources,Canada,Cobalt,112.3,2024-03-10
+S0034,Northern Star Resources,Canada,Lithium,187.5,2024-03-11
+S0178,USA Rare Earth LLC,USA,Lithium,134.4,2024-03-14
+S0064,Ural Mining Co,Russia,Nickel,85.7,2024-03-15
+S0321,Kazakhstan Metals,Kazakhstan,Niobium,77.6,2024-03-16
+S0408,Ural Mining Co,Russia,Nickel,76.1,2024-03-16
+S0173,Northern Star Resources,Canada,Cobalt,143.2,2024-03-17
+S0317,USA Rare Earth LLC,USA,Neodymium,128.4,2024-03-18
+S0313,Chilean Copper Corp,Chile,Lithium,221.3,2024-03-19
+S0114,Ural Mining Co,Russia,Palladium,46.5,2024-03-20
+S0306,Congo Mineral Group,DRC,Cobalt,292.0,2024-03-20
+S0033,Chilean Copper Corp,Chile,Lithium,151.3,2024-03-21
+S0414,Sino Rare Metals,China,Lithium,205.3,2024-03-21
+S0466,Kazakhstan Metals,Kazakhstan,Niobium,74.4,2024-03-21
+S0216,Sino Rare Metals,China,Lithium,177.0,2024-03-23
+S0129,Kazakhstan Metals,Kazakhstan,Uranium,72.6,2024-03-24
+S0382,Sino Rare Metals,China,Lithium,117.3,2024-03-25
+S0295,Kazakhstan Metals,Kazakhstan,Uranium,98.8,2024-03-27
+S0150,Pacific Rim Mining,Australia,Cobalt,193.8,2024-03-28
+S0367,Chilean Copper Corp,Chile,Lithium,144.4,2024-03-28
+S0145,Sino Rare Metals,China,Neodymium,196.3,2024-03-29
+S0002,Chilean Copper Corp,Chile,Lithium,215.7,2024-03-30
+S0323,Sino Rare Metals,China,Cobalt,90.7,2024-04-02
+S0183,Sino Rare Metals,China,Lithium,115.1,2024-04-03
+S0353,Ural Mining Co,Russia,Palladium,79.9,2024-04-03
+S0281,Northern Star Resources,Canada,Cobalt,249.7,2024-04-05
+S0416,USA Rare Earth LLC,USA,Lithium,115.3,2024-04-05
+S0278,Sino Rare Metals,China,Cobalt,135.8,2024-04-07
+S0486,Congo Mineral Group,DRC,Cobalt,217.3,2024-04-07
+S0428,Kazakhstan Metals,Kazakhstan,Uranium,72.4,2024-04-09
+S0050,Chilean Copper Corp,Chile,Lithium,177.6,2024-04-10
+S0220,Chilean Copper Corp,Chile,Lithium,176.4,2024-04-10
+S0357,Chilean Copper Corp,Chile,Lithium,161.4,2024-04-11
+S0065,Pacific Rim Mining,Australia,Nickel,154.5,2024-04-12
+S0012,Kazakhstan Metals,Kazakhstan,Niobium,102.8,2024-04-13
+S0341,Northern Star Resources,Canada,Nickel,252.0,2024-04-13
+S0371,Sino Rare Metals,China,Neodymium,128.3,2024-04-16
+S0310,Sino Rare Metals,China,Neodymium,141.1,2024-04-18
+S0070,Northern Star Resources,Canada,Cobalt,147.6,2024-04-19
+S0479,Kazakhstan Metals,Kazakhstan,Niobium,60.5,2024-04-19
+S0084,Congo Mineral Group,DRC,Cobalt,253.4,2024-04-20
+S0023,Ural Mining Co,Russia,Palladium,75.3,2024-04-22
+S0264,USA Rare Earth LLC,USA,Lithium,131.9,2024-04-22
+S0453,Pacific Rim Mining,Australia,Cobalt,193.8,2024-04-22
+S0497,Sino Rare Metals,China,Neodymium,208.4,2024-04-24
+S0198,Northern Star Resources,Canada,Cobalt,278.6,2024-04-26
+S0026,Kazakhstan Metals,Kazakhstan,Niobium,94.0,2024-04-27
+S0133,USA Rare Earth LLC,USA,Neodymium,71.4,2024-04-27
+S0251,Pacific Rim Mining,Australia,Nickel,199.5,2024-04-28
+S0397,Ural Mining Co,Russia,Nickel,84.8,2024-04-30
+S0440,Ural Mining Co,Russia,Nickel,79.5,2024-05-01
+S0302,USA Rare Earth LLC,USA,Lithium,86.1,2024-05-02
+S0139,Northern Star Resources,Canada,Lithium,239.0,2024-05-03
+S0427,Northern Star Resources,Canada,Nickel,143.5,2024-05-05
+S0009,Pacific Rim Mining,Australia,Cobalt,135.1,2024-05-07
+S0351,Northern Star Resources,Canada,Lithium,252.3,2024-05-07
+S0075,Pacific Rim Mining,Australia,Lithium,120.0,2024-05-13
+S0342,Pacific Rim Mining,Australia,Cobalt,120.4,2024-05-14
+S0493,Sino Rare Metals,China,Lithium,110.9,2024-05-16
+S0252,Northern Star Resources,Canada,Cobalt,259.7,2024-05-18
+S0399,Kazakhstan Metals,Kazakhstan,Uranium,70.0,2024-05-18
+S0443,Congo Mineral Group,DRC,Cobalt,209.1,2024-05-20
+S0472,Sino Rare Metals,China,Lithium,146.1,2024-05-20
+S0022,Congo Mineral Group,DRC,Cobalt,272.4,2024-05-21
+S0349,Congo Mineral Group,DRC,Cobalt,363.4,2024-05-21
+S0333,Sino Rare Metals,China,Neodymium,161.6,2024-05-24
+S0226,Chilean Copper Corp,Chile,Lithium,238.7,2024-05-26
+S0291,Sino Rare Metals,China,Cobalt,80.9,2024-05-26
+S0263,Pacific Rim Mining,Australia,Nickel,183.0,2024-05-28
+S0223,Kazakhstan Metals,Kazakhstan,Uranium,78.7,2024-05-29
+S0465,Congo Mineral Group,DRC,Cobalt,390.9,2024-05-29
+S0104,Kazakhstan Metals,Kazakhstan,Niobium,100.3,2024-05-30
+S0078,Pacific Rim Mining,Australia,Nickel,149.9,2024-05-31
+S0107,Congo Mineral Group,DRC,Cobalt,279.9,2024-05-31
+S0262,Chilean Copper Corp,Chile,Lithium,162.7,2024-05-31
+S0273,Northern Star Resources,Canada,Cobalt,158.0,2024-05-31
+S0315,Sino Rare Metals,China,Lithium,214.2,2024-05-31
+S0077,Pacific Rim Mining,Australia,Lithium,89.0,2024-06-01
+S0444,Sino Rare Metals,China,Cobalt,152.7,2024-06-01
+S0332,Kazakhstan Metals,Kazakhstan,Uranium,96.2,2024-06-02
+S0199,Ural Mining Co,Russia,Palladium,68.9,2024-06-06
+S0214,USA Rare Earth LLC,USA,Lithium,138.4,2024-06-07
+S0286,Northern Star Resources,Canada,Lithium,191.3,2024-06-07
+S0340,Chilean Copper Corp,Chile,Lithium,250.0,2024-06-07
+S0006,USA Rare Earth LLC,USA,Lithium,90.6,2024-06-08
+S0473,Pacific Rim Mining,Australia,Cobalt,197.3,2024-06-10
+S0389,Sino Rare Metals,China,Lithium,192.2,2024-06-12
+S0188,Sino Rare Metals,China,Cobalt,173.8,2024-06-13
+S0030,Chilean Copper Corp,Chile,Lithium,168.6,2024-06-14
+S0135,USA Rare Earth LLC,USA,Neodymium,130.0,2024-06-16
+S0412,Northern Star Resources,Canada,Lithium,127.5,2024-06-17
+S0035,USA Rare Earth LLC,USA,Neodymium,119.4,2024-06-18
+S0343,Congo Mineral Group,DRC,Cobalt,232.4,2024-06-18
+S0451,Chilean Copper Corp,Chile,Lithium,195.9,2024-06-23
+S0403,Kazakhstan Metals,Kazakhstan,Niobium,95.6,2024-06-27
+S0303,Pacific Rim Mining,Australia,Nickel,169.6,2024-06-28
+S0477,USA Rare Earth LLC,USA,Lithium,139.4,2024-06-29
+S0082,USA Rare Earth LLC,USA,Neodymium,137.8,2024-06-30
+S0224,Chilean Copper Corp,Chile,Lithium,193.6,2024-07-03
+S0338,Sino Rare Metals,China,Neodymium,130.8,2024-07-03
+S0383,Congo Mineral Group,DRC,Cobalt,286.1,2024-07-03
+S0410,Ural Mining Co,Russia,Nickel,37.7,2024-07-05
+S0158,Sino Rare Metals,China,Neodymium,184.0,2024-07-08
+S0396,Chilean Copper Corp,Chile,Lithium,123.4,2024-07-09
+S0478,Pacific Rim Mining,Australia,Nickel,174.6,2024-07-09
+S0483,USA Rare Earth LLC,USA,Lithium,118.3,2024-07-09
+S0044,Chilean Copper Corp,Chile,Lithium,225.0,2024-07-13
+S0093,Northern Star Resources,Canada,Nickel,261.9,2024-07-13
+S0258,Sino Rare Metals,China,Neodymium,135.7,2024-07-13
+S0377,Congo Mineral Group,DRC,Cobalt,250.7,2024-07-14
+S0157,Kazakhstan Metals,Kazakhstan,Niobium,66.0,2024-07-16
+S0106,Northern Star Resources,Canada,Nickel,174.6,2024-07-18
+S0438,Sino Rare Metals,China,Neodymium,136.1,2024-07-18
+S0316,Chilean Copper Corp,Chile,Lithium,139.0,2024-07-21
+S0137,Congo Mineral Group,DRC,Cobalt,388.3,2024-07-22
+S0375,Pacific Rim Mining,Australia,Nickel,104.2,2024-07-23
+S0474,Congo Mineral Group,DRC,Cobalt,295.5,2024-07-23
+S0036,Kazakhstan Metals,Kazakhstan,Uranium,108.2,2024-07-24
+S0404,Sino Rare Metals,China,Lithium,111.4,2024-07-24
+S0498,Pacific Rim Mining,Australia,Cobalt,188.3,2024-07-26
+S0194,Ural Mining Co,Russia,Nickel,75.6,2024-07-27
+S0261,USA Rare Earth LLC,USA,Neodymium,66.2,2024-07-31
+S0071,USA Rare Earth LLC,USA,Lithium,85.4,2024-08-03
+S0301,Pacific Rim Mining,Australia,Lithium,104.5,2024-08-04
+S0259,Northern Star Resources,Canada,Nickel,116.5,2024-08-05
+S0101,Ural Mining Co,Russia,Nickel,56.5,2024-08-06
+S0398,Kazakhstan Metals,Kazakhstan,Uranium,95.2,2024-08-07
+S0276,Northern Star Resources,Canada,Lithium,120.6,2024-08-08
+S0298,Ural Mining Co,Russia,Nickel,54.9,2024-08-08
+S0003,Congo Mineral Group,DRC,Cobalt,206.0,2024-08-11
+S0495,Congo Mineral Group,DRC,Cobalt,351.5,2024-08-11
+S0108,Pacific Rim Mining,Australia,Lithium,173.4,2024-08-12
+S0085,Congo Mineral Group,DRC,Cobalt,371.7,2024-08-15
+S0038,Ural Mining Co,Russia,Nickel,37.3,2024-08-18
+S0177,Chilean Copper Corp,Chile,Lithium,134.9,2024-08-18
+S0413,USA Rare Earth LLC,USA,Lithium,144.1,2024-08-18
+S0243,Northern Star Resources,Canada,Cobalt,235.7,2024-08-19
+S0288,Sino Rare Metals,China,Neodymium,186.8,2024-08-19
+S0011,Chilean Copper Corp,Chile,Lithium,126.0,2024-08-21
+S0086,Chilean Copper Corp,Chile,Lithium,165.5,2024-08-21
+S0039,Northern Star Resources,Canada,Nickel,103.8,2024-08-23
+S0235,Ural Mining Co,Russia,Nickel,76.5,2024-08-23
+S0304,USA Rare Earth LLC,USA,Lithium,107.9,2024-08-23
+S0247,Congo Mineral Group,DRC,Cobalt,221.7,2024-08-27
+S0103,Sino Rare Metals,China,Neodymium,194.6,2024-08-28
+S0256,Chilean Copper Corp,Chile,Lithium,177.8,2024-08-29
+S0265,Pacific Rim Mining,Australia,Lithium,81.8,2024-08-31
+S0344,Ural Mining Co,Russia,Palladium,54.7,2024-08-31
+S0362,Congo Mineral Group,DRC,Cobalt,355.2,2024-08-31
+S0208,Ural Mining Co,Russia,Nickel,82.2,2024-09-01
+S0196,Ural Mining Co,Russia,Palladium,31.7,2024-09-02
+S0469,Kazakhstan Metals,Kazakhstan,Niobium,65.5,2024-09-02
+S0151,Chilean Copper Corp,Chile,Lithium,183.5,2024-09-03
+S0365,Pacific Rim Mining,Australia,Cobalt,141.8,2024-09-04
+S0138,Northern Star Resources,Canada,Lithium,224.3,2024-09-05
+S0452,Congo Mineral Group,DRC,Cobalt,364.3,2024-09-05
+S0153,Northern Star Resources,Canada,Nickel,139.9,2024-09-06
+S0201,Congo Mineral Group,DRC,Cobalt,396.0,2024-09-06
+S0260,Pacific Rim Mining,Australia,Lithium,174.4,2024-09-06
+S0001,Northern Star Resources,Canada,Cobalt,233.5,2024-09-07
+S0067,USA Rare Earth LLC,USA,Lithium,139.3,2024-09-07
+S0060,Chilean Copper Corp,Chile,Lithium,135.6,2024-09-09
+S0487,USA Rare Earth LLC,USA,Neodymium,103.0,2024-09-11
+S0080,Pacific Rim Mining,Australia,Nickel,105.2,2024-09-12
+S0109,USA Rare Earth LLC,USA,Lithium,64.5,2024-09-12
+S0236,Sino Rare Metals,China,Neodymium,169.1,2024-09-13
+S0279,Sino Rare Metals,China,Cobalt,123.8,2024-09-18
+S0148,USA Rare Earth LLC,USA,Lithium,79.1,2024-09-21
+S0090,Pacific Rim Mining,Australia,Lithium,185.2,2024-09-24
+S0246,Sino Rare Metals,China,Lithium,184.9,2024-09-25
+S0021,USA Rare Earth LLC,USA,Lithium,72.6,2024-09-26
+S0028,USA Rare Earth LLC,USA,Lithium,60.3,2024-09-26
+S0008,Northern Star Resources,Canada,Nickel,252.5,2024-09-27
+S0072,Sino Rare Metals,China,Neodymium,176.2,2024-09-27
+S0172,Northern Star Resources,Canada,Cobalt,212.6,2024-09-27
+S0176,Ural Mining Co,Russia,Palladium,71.2,2024-09-27
+S0459,Sino Rare Metals,China,Lithium,129.6,2024-09-27
+S0066,Northern Star Resources,Canada,Lithium,138.4,2024-09-28
+S0215,Northern Star Resources,Canada,Nickel,240.7,2024-09-28
+S0418,Pacific Rim Mining,Australia,Lithium,89.7,2024-09-28
+S0450,Kazakhstan Metals,Kazakhstan,Niobium,89.8,2024-09-28
+S0014,USA Rare Earth LLC,USA,Lithium,92.0,2024-09-30
+S0289,Congo Mineral Group,DRC,Cobalt,321.8,2024-09-30
+S0144,Kazakhstan Metals,Kazakhstan,Uranium,83.2,2024-10-01
+S0184,Chilean Copper Corp,Chile,Lithium,249.9,2024-10-02
+S0016,Chilean Copper Corp,Chile,Lithium,180.1,2024-10-03
+S0468,Chilean Copper Corp,Chile,Lithium,227.6,2024-10-04
+S0200,Ural Mining Co,Russia,Nickel,60.5,2024-10-06
+S0352,Kazakhstan Metals,Kazakhstan,Niobium,98.2,2024-10-06
+S0463,Sino Rare Metals,China,Cobalt,128.8,2024-10-07
+S0387,Sino Rare Metals,China,Lithium,219.7,2024-10-08
+S0415,Kazakhstan Metals,Kazakhstan,Niobium,91.8,2024-10-08
+S0149,Sino Rare Metals,China,Cobalt,203.2,2024-10-09
+S0074,Northern Star Resources,Canada,Lithium,176.2,2024-10-10
+S0113,Ural Mining Co,Russia,Nickel,75.1,2024-10-10
+S0159,Chilean Copper Corp,Chile,Lithium,216.0,2024-10-10
+S0088,Sino Rare Metals,China,Cobalt,201.0,2024-10-12
+S0395,Sino Rare Metals,China,Cobalt,124.0,2024-10-12
+S0460,Ural Mining Co,Russia,Palladium,87.4,2024-10-12
+S0175,Kazakhstan Metals,Kazakhstan,Niobium,71.6,2024-10-16
+S0329,USA Rare Earth LLC,USA,Lithium,93.6,2024-10-16
+S0102,Ural Mining Co,Russia,Palladium,69.5,2024-10-17
+S0299,Northern Star Resources,Canada,Nickel,177.4,2024-10-17
+S0358,Sino Rare Metals,China,Neodymium,99.3,2024-10-20
+S0219,Pacific Rim Mining,Australia,Cobalt,88.2,2024-10-21
+S0179,Pacific Rim Mining,Australia,Lithium,175.1,2024-10-22
+S0189,Sino Rare Metals,China,Cobalt,177.1,2024-10-22
+S0402,Sino Rare Metals,China,Lithium,89.1,2024-10-24
+S0097,Kazakhstan Metals,Kazakhstan,Uranium,76.3,2024-10-29
+S0484,Pacific Rim Mining,Australia,Cobalt,120.5,2024-10-29
+S0492,Kazakhstan Metals,Kazakhstan,Niobium,91.9,2024-10-29
+S0160,Kazakhstan Metals,Kazakhstan,Niobium,101.6,2024-10-30
+S0461,Kazakhstan Metals,Kazakhstan,Niobium,107.1,2024-10-31
+S0029,USA Rare Earth LLC,USA,Neodymium,138.3,2024-11-01
+S0069,Pacific Rim Mining,Australia,Cobalt,178.1,2024-11-02
+S0221,Northern Star Resources,Canada,Nickel,129.9,2024-11-02
+S0446,USA Rare Earth LLC,USA,Lithium,149.2,2024-11-02
+S0063,Chilean Copper Corp,Chile,Lithium,171.5,2024-11-03
+S0096,Sino Rare Metals,China,Lithium,198.7,2024-11-03
+S0068,Sino Rare Metals,China,Cobalt,102.1,2024-11-05
+S0420,Ural Mining Co,Russia,Nickel,68.5,2024-11-05
+S0320,Northern Star Resources,Canada,Nickel,179.6,2024-11-06
+S0168,USA Rare Earth LLC,USA,Neodymium,133.0,2024-11-07
+S0180,Ural Mining Co,Russia,Palladium,58.1,2024-11-07
+S0156,Sino Rare Metals,China,Lithium,143.5,2024-11-09
+S0032,Northern Star Resources,Canada,Nickel,258.2,2024-11-10
+S0290,Pacific Rim Mining,Australia,Lithium,112.8,2024-11-12
+S0136,Kazakhstan Metals,Kazakhstan,Niobium,88.9,2024-11-15
+S0424,Chilean Copper Corp,Chile,Lithium,198.9,2024-11-16
+S0430,Chilean Copper Corp,Chile,Lithium,225.8,2024-11-16
+S0062,Sino Rare Metals,China,Cobalt,108.6,2024-11-17
+S0019,Kazakhstan Metals,Kazakhstan,Niobium,70.5,2024-11-18
+S0190,Congo Mineral Group,DRC,Cobalt,291.0,2024-11-18
+S0445,USA Rare Earth LLC,USA,Lithium,143.8,2024-11-22
+S0115,Kazakhstan Metals,Kazakhstan,Niobium,73.6,2024-11-23
+S0401,Northern Star Resources,Canada,Lithium,274.2,2024-11-23
+S0100,Kazakhstan Metals,Kazakhstan,Uranium,70.5,2024-11-25
+S0147,Congo Mineral Group,DRC,Cobalt,205.7,2024-11-28
+S0274,Northern Star Resources,Canada,Cobalt,149.5,2024-11-28
+S0239,USA Rare Earth LLC,USA,Neodymium,141.9,2024-11-30
+S0127,USA Rare Earth LLC,USA,Neodymium,83.4,2024-12-01
+S0248,Ural Mining Co,Russia,Palladium,67.2,2024-12-01
+S0384,Kazakhstan Metals,Kazakhstan,Uranium,65.1,2024-12-01
+S0283,USA Rare Earth LLC,USA,Neodymium,112.8,2024-12-03
+S0041,Chilean Copper Corp,Chile,Lithium,237.7,2024-12-04
+S0095,Chilean Copper Corp,Chile,Lithium,176.1,2024-12-04
+S0155,Sino Rare Metals,China,Cobalt,219.5,2024-12-04
+S0482,Kazakhstan Metals,Kazakhstan,Niobium,100.4,2024-12-04
+S0089,Sino Rare Metals,China,Lithium,151.3,2024-12-05
+S0083,Congo Mineral Group,DRC,Cobalt,235.9,2024-12-06
+S0417,USA Rare Earth LLC,USA,Neodymium,75.4,2024-12-11
+S0372,Sino Rare Metals,China,Neodymium,86.2,2024-12-12
+S0047,Northern Star Resources,Canada,Cobalt,172.5,2024-12-13
+S0312,Northern Star Resources,Canada,Nickel,256.7,2024-12-13
+S0441,USA Rare Earth LLC,USA,Neodymium,95.5,2024-12-13
+S0326,USA Rare Earth LLC,USA,Neodymium,100.5,2024-12-17
+S0206,USA Rare Earth LLC,USA,Lithium,108.5,2024-12-19
+S0229,Kazakhstan Metals,Kazakhstan,Niobium,63.7,2024-12-19
+S0425,Sino Rare Metals,China,Lithium,218.3,2024-12-19
+S0314,Northern Star Resources,Canada,Lithium,191.8,2024-12-23
+S0287,Ural Mining Co,Russia,Palladium,80.8,2024-12-24
+S0120,Congo Mineral Group,DRC,Cobalt,201.2,2024-12-26
+S0285,Pacific Rim Mining,Australia,Nickel,152.0,2024-12-26
+S0366,USA Rare Earth LLC,USA,Lithium,98.6,2024-12-27
+S0434,Ural Mining Co,Russia,Palladium,42.9,2024-12-27
+S0045,Northern Star Resources,Canada,Cobalt,218.6,2024-12-28
+S0232,Northern Star Resources,Canada,Cobalt,168.6,2025-01-02
+S0010,Congo Mineral Group,DRC,Cobalt,310.4,2025-01-05
+S0142,Congo Mineral Group,DRC,Cobalt,221.1,2025-01-05
+S0193,Congo Mineral Group,DRC,Cobalt,237.5,2025-01-05
+S0013,Congo Mineral Group,DRC,Cobalt,290.7,2025-01-08
+S0079,Congo Mineral Group,DRC,Cobalt,208.4,2025-01-08
+S0238,Kazakhstan Metals,Kazakhstan,Uranium,61.7,2025-01-08
+S0240,Congo Mineral Group,DRC,Cobalt,240.2,2025-01-09
+S0391,Pacific Rim Mining,Australia,Lithium,88.1,2025-01-10
+S0257,Sino Rare Metals,China,Neodymium,217.3,2025-01-11
+S0379,Sino Rare Metals,China,Cobalt,97.4,2025-01-11
+S0134,Chilean Copper Corp,Chile,Lithium,210.9,2025-01-12
+S0294,Congo Mineral Group,DRC,Cobalt,268.2,2025-01-13
+S0140,Pacific Rim Mining,Australia,Nickel,143.9,2025-01-14
+S0255,Congo Mineral Group,DRC,Cobalt,206.5,2025-01-14
+S0350,Kazakhstan Metals,Kazakhstan,Niobium,92.1,2025-01-15
+S0393,USA Rare Earth LLC,USA,Lithium,145.4,2025-01-15
+S0282,Congo Mineral Group,DRC,Cobalt,348.9,2025-01-16
+S0037,Kazakhstan Metals,Kazakhstan,Uranium,109.8,2025-01-17
+S0355,Congo Mineral Group,DRC,Cobalt,279.3,2025-01-17
+S0494,Ural Mining Co,Russia,Palladium,57.3,2025-01-17
+S0356,Chilean Copper Corp,Chile,Lithium,249.3,2025-01-18
+S0293,Northern Star Resources,Canada,Lithium,195.5,2025-01-20
+S0335,USA Rare Earth LLC,USA,Neodymium,87.9,2025-01-20
+S0207,Sino Rare Metals,China,Lithium,186.8,2025-01-21
+S0098,USA Rare Earth LLC,USA,Neodymium,97.8,2025-01-23
+S0128,Chilean Copper Corp,Chile,Lithium,162.5,2025-01-23
+S0464,Kazakhstan Metals,Kazakhstan,Niobium,88.7,2025-01-23
+S0007,Chilean Copper Corp,Chile,Lithium,133.3,2025-01-24
+S0217,Sino Rare Metals,China,Lithium,200.3,2025-01-24
+S0210,Pacific Rim Mining,Australia,Nickel,169.4,2025-01-25
+S0225,USA Rare Earth LLC,USA,Neodymium,67.1,2025-01-26
+S0116,Northern Star Resources,Canada,Cobalt,127.1,2025-01-27
+S0331,Sino Rare Metals,China,Neodymium,126.2,2025-01-30
+S0380,Congo Mineral Group,DRC,Cobalt,348.7,2025-01-30
+S0439,Sino Rare Metals,China,Lithium,120.4,2025-01-30
+S0054,USA Rare Earth LLC,USA,Lithium,60.2,2025-02-03
+S0334,Sino Rare Metals,China,Cobalt,215.5,2025-02-05
+S0244,Congo Mineral Group,DRC,Cobalt,218.1,2025-02-08
+S0300,Ural Mining Co,Russia,Nickel,32.7,2025-02-08
+S0233,Kazakhstan Metals,Kazakhstan,Uranium,61.1,2025-02-09
+S0407,USA Rare Earth LLC,USA,Neodymium,65.9,2025-02-11
+S0087,Chilean Copper Corp,Chile,Lithium,205.8,2025-02-12
+S0018,Chilean Copper Corp,Chile,Lithium,224.7,2025-02-14
+S0437,USA Rare Earth LLC,USA,Lithium,125.5,2025-02-16
+S0191,Kazakhstan Metals,Kazakhstan,Uranium,65.8,2025-02-17
+S0123,Ural Mining Co,Russia,Palladium,53.3,2025-02-18
+S0307,Sino Rare Metals,China,Lithium,140.1,2025-02-18
+S0388,Pacific Rim Mining,Australia,Lithium,160.5,2025-02-19
+S0421,Ural Mining Co,Russia,Palladium,78.3,2025-02-19
+S0485,Chilean Copper Corp,Chile,Lithium,199.4,2025-02-19
+S0491,Northern Star Resources,Canada,Nickel,155.2,2025-02-19
+S0081,Northern Star Resources,Canada,Nickel,240.4,2025-02-20
+S0117,USA Rare Earth LLC,USA,Neodymium,65.8,2025-02-21
+S0197,USA Rare Earth LLC,USA,Lithium,109.6,2025-02-21
+S0187,Ural Mining Co,Russia,Palladium,58.2,2025-02-22
+S0209,Congo Mineral Group,DRC,Cobalt,371.2,2025-02-24
+S0455,USA Rare Earth LLC,USA,Lithium,122.1,2025-02-24
+S0277,Congo Mineral Group,DRC,Cobalt,377.6,2025-02-27
+S0471,Chilean Copper Corp,Chile,Lithium,126.8,2025-02-27
+S0203,USA Rare Earth LLC,USA,Neodymium,84.9,2025-02-28
+S0169,Northern Star Resources,Canada,Cobalt,121.3,2025-03-02
+S0449,Sino Rare Metals,China,Cobalt,174.3,2025-03-02
+S0429,Pacific Rim Mining,Australia,Nickel,193.4,2025-03-04
+S0454,Chilean Copper Corp,Chile,Lithium,177.3,2025-03-04
+S0004,Chilean Copper Corp,Chile,Lithium,193.0,2025-03-05
+S0121,Kazakhstan Metals,Kazakhstan,Uranium,102.7,2025-03-05
+S0253,Congo Mineral Group,DRC,Cobalt,274.2,2025-03-05
+S0363,Kazakhstan Metals,Kazakhstan,Niobium,62.4,2025-03-05
+S0024,USA Rare Earth LLC,USA,Neodymium,131.3,2025-03-08
+S0284,Northern Star Resources,Canada,Nickel,163.6,2025-03-09
+S0297,Northern Star Resources,Canada,Nickel,179.8,2025-03-10
+S0271,Pacific Rim Mining,Australia,Nickel,181.7,2025-03-12
+S0385,Kazakhstan Metals,Kazakhstan,Uranium,82.3,2025-03-12
+S0076,Kazakhstan Metals,Kazakhstan,Niobium,97.1,2025-03-13
+S0275,Congo Mineral Group,DRC,Cobalt,290.7,2025-03-16
+S0436,Kazakhstan Metals,Kazakhstan,Niobium,102.4,2025-03-17
+S0182,Ural Mining Co,Russia,Palladium,65.9,2025-03-18
+S0091,USA Rare Earth LLC,USA,Lithium,63.4,2025-03-20
+S0027,Kazakhstan Metals,Kazakhstan,Uranium,65.6,2025-03-21
+S0092,Sino Rare Metals,China,Lithium,190.1,2025-03-22
+S0122,Chilean Copper Corp,Chile,Lithium,148.5,2025-03-22
+S0186,Kazakhstan Metals,Kazakhstan,Niobium,109.8,2025-03-22
+S0195,Kazakhstan Metals,Kazakhstan,Niobium,106.4,2025-03-24
+S0390,Pacific Rim Mining,Australia,Lithium,181.8,2025-03-24
+S0212,USA Rare Earth LLC,USA,Lithium,138.3,2025-03-26
+S0319,Sino Rare Metals,China,Lithium,124.3,2025-03-26
+S0347,Chilean Copper Corp,Chile,Lithium,208.2,2025-03-27
+S0185,Pacific Rim Mining,Australia,Lithium,136.5,2025-03-28
+S0170,Chilean Copper Corp,Chile,Lithium,178.6,2025-03-29
+S0272,Northern Star Resources,Canada,Nickel,228.2,2025-03-30
+S0400,Northern Star Resources,Canada,Nickel,131.1,2025-03-31
+S0488,Pacific Rim Mining,Australia,Nickel,126.0,2025-04-02
+S0048,Northern Star Resources,Canada,Cobalt,134.5,2025-04-04
+S0318,USA Rare Earth LLC,USA,Lithium,101.8,2025-04-04
+S0345,Ural Mining Co,Russia,Nickel,75.1,2025-04-04
+S0409,USA Rare Earth LLC,USA,Lithium,117.8,2025-04-05
+S0245,Pacific Rim Mining,Australia,Nickel,144.4,2025-04-10
+S0230,Kazakhstan Metals,Kazakhstan,Uranium,94.5,2025-04-12
+S0374,USA Rare Earth LLC,USA,Neodymium,65.7,2025-04-13
+S0020,Chilean Copper Corp,Chile,Lithium,171.4,2025-04-14
+S0227,Chilean Copper Corp,Chile,Lithium,202.9,2025-04-15
+S0458,Congo Mineral Group,DRC,Cobalt,391.3,2025-04-15
+S0309,Sino Rare Metals,China,Neodymium,192.2,2025-04-16
+S0126,Northern Star Resources,Canada,Lithium,177.2,2025-04-17
+S0049,USA Rare Earth LLC,USA,Lithium,76.5,2025-04-18
+S0192,Pacific Rim Mining,Australia,Cobalt,184.3,2025-04-18
+S0110,Northern Star Resources,Canada,Nickel,124.0,2025-04-20
+S0146,Kazakhstan Metals,Kazakhstan,Uranium,72.2,2025-04-20
+S0249,Chilean Copper Corp,Chile,Lithium,202.6,2025-04-20
+S0423,USA Rare Earth LLC,USA,Lithium,97.4,2025-04-20
+S0228,Kazakhstan Metals,Kazakhstan,Niobium,104.9,2025-04-21
+S0406,Sino Rare Metals,China,Lithium,160.1,2025-04-23
+S0025,Northern Star Resources,Canada,Nickel,168.7,2025-04-24
+S0242,Kazakhstan Metals,Kazakhstan,Uranium,100.2,2025-04-24
+S0481,Ural Mining Co,Russia,Palladium,81.1,2025-04-24
+S0164,Northern Star Resources,Canada,Cobalt,203.3,2025-04-25
+S0346,Chilean Copper Corp,Chile,Lithium,160.2,2025-04-25
+S0359,Ural Mining Co,Russia,Palladium,75.5,2025-04-25
+S0174,USA Rare Earth LLC,USA,Neodymium,96.8,2025-04-26
+S0435,Pacific Rim Mining,Australia,Lithium,113.8,2025-04-26
+S0043,Chilean Copper Corp,Chile,Lithium,214.0,2025-04-29
+S0280,Sino Rare Metals,China,Neodymium,176.2,2025-04-30
+S0105,Pacific Rim Mining,Australia,Lithium,109.4,2025-05-01
+S0112,Congo Mineral Group,DRC,Cobalt,379.4,2025-05-01
+S0325,Ural Mining Co,Russia,Palladium,49.3,2025-05-02
+S0457,Chilean Copper Corp,Chile,Lithium,249.8,2025-05-04
+S0373,USA Rare Earth LLC,USA,Lithium,148.3,2025-05-05
+S0467,Sino Rare Metals,China,Cobalt,171.8,2025-05-05
+S0241,Kazakhstan Metals,Kazakhstan,Niobium,72.8,2025-05-08
+S0231,Kazakhstan Metals,Kazakhstan,Niobium,110.0,2025-05-09
+S0042,Northern Star Resources,Canada,Lithium,142.8,2025-05-12
+S0052,Northern Star Resources,Canada,Cobalt,129.9,2025-05-12
+S0339,Chilean Copper Corp,Chile,Lithium,243.2,2025-05-12
+S0055,Kazakhstan Metals,Kazakhstan,Uranium,74.3,2025-05-13
+S0218,Sino Rare Metals,China,Lithium,180.6,2025-05-14
+S0462,Kazakhstan Metals,Kazakhstan,Niobium,94.5,2025-05-15
+S0500,Ural Mining Co,Russia,Palladium,70.8,2025-05-15
+S0205,Kazakhstan Metals,Kazakhstan,Uranium,101.9,2025-05-16
+S0254,USA Rare Earth LLC,USA,Lithium,118.9,2025-05-16
+S0163,Kazakhstan Metals,Kazakhstan,Niobium,91.9,2025-05-17
+S0181,Congo Mineral Group,DRC,Cobalt,300.1,2025-05-20
+S0381,Sino Rare Metals,China,Neodymium,149.5,2025-05-24
+S0432,Ural Mining Co,Russia,Nickel,82.7,2025-05-24
+S0364,Ural Mining Co,Russia,Palladium,36.7,2025-05-26
+S0348,Ural Mining Co,Russia,Nickel,76.7,2025-05-29
+S0111,Sino Rare Metals,China,Cobalt,165.8,2025-05-31
+S0433,Pacific Rim Mining,Australia,Lithium,193.4,2025-06-01
+S0368,Sino Rare Metals,China,Neodymium,213.5,2025-06-03
+S0058,Ural Mining Co,Russia,Palladium,33.4,2025-06-04
+S0202,Ural Mining Co,Russia,Palladium,53.0,2025-06-04
+S0337,Northern Star Resources,Canada,Lithium,220.7,2025-06-04
+S0442,Sino Rare Metals,China,Neodymium,107.9,2025-06-05
+S0268,Ural Mining Co,Russia,Nickel,76.7,2025-06-09
+S0376,Pacific Rim Mining,Australia,Nickel,192.0,2025-06-11
+S0426,Congo Mineral Group,DRC,Cobalt,352.1,2025-06-11
+S0431,Chilean Copper Corp,Chile,Lithium,184.8,2025-06-11
+S0456,Ural Mining Co,Russia,Palladium,72.3,2025-06-15
+S0499,USA Rare Earth LLC,USA,Neodymium,89.5,2025-06-16
+S0143,Ural Mining Co,Russia,Palladium,56.1,2025-06-18
+S0061,Pacific Rim Mining,Australia,Cobalt,89.8,2025-06-19
+S0311,Chilean Copper Corp,Chile,Lithium,196.6,2025-06-20
+S0328,Chilean Copper Corp,Chile,Lithium,248.8,2025-06-20
+S0480,Sino Rare Metals,China,Cobalt,143.6,2025-06-20
+S0336,Sino Rare Metals,China,Neodymium,173.8,2025-06-23
+S0361,Kazakhstan Metals,Kazakhstan,Niobium,101.7,2025-06-24
+S0496,Chilean Copper Corp,Chile,Lithium,188.3,2025-06-24
+S0394,Ural Mining Co,Russia,Palladium,64.4,2025-06-26
+S0154,Kazakhstan Metals,Kazakhstan,Uranium,83.7,2025-06-27
+S0470,Chilean Copper Corp,Chile,Lithium,207.1,2025-06-27
+S0447,Sino Rare Metals,China,Lithium,196.0,2025-06-29
+S0015,Northern Star Resources,Canada,Lithium,214.3,2025-06-30
+S0124,USA Rare Earth LLC,USA,Lithium,142.8,2025-06-30
