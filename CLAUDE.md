@@ -56,8 +56,9 @@ dremio lineage show <catalog-id> --format tree
 dremio reflection create --json '{"datasetId": "<id>", "name": "...", "type": "AGGREGATION", "dimensionFields": [...], "measureFields": [...], "enabled": true}'
 dremio reflection get <reflection-id>
 
-# Wikis
-dremio wiki update "space.folder.view_name" "markdown content here"
+# Wikis — requires catalog ID, not path
+dremio catalog get-by-path "Space/Folder/ViewName"   # get the catalog ID first
+dremio wiki set <catalog-id> --text "markdown content here"
 
 # Tags
 dremio tag update "space.folder.view_name" "tag1,tag2,tag3"
@@ -72,9 +73,9 @@ All data lives in `StrategicMaterialsDB`:
 
 | Table | Rows | Key Columns |
 |-------|------|-------------|
-| `Bronze.MineralSources` | 50 | ShipmentID, SupplierName, CountryOfOrigin, MineralType, WeightTons, ShipmentDate |
-| `Bronze.GeopoliticalRiskIndex` | 10 | Country, RiskScore (1-10), RiskCategory, Notes |
-| `Bronze.SupplierAuditFindings` | 50 | AuditID, SupplierName, AuditDate, AuditType, ComplianceScore, CriticalFindingsCount, PrimaryFindingCategory, Auditor, RemediationDueDate, Status |
+| `Bronze.mineral_sources` | 500 | ShipmentID, SupplierName, CountryOfOrigin, MineralType, WeightTons, ShipmentDate |
+| `Bronze.geopolitical_risk_index` | 10 | Country, RiskScore (1-10), RiskCategory, Notes |
+| `Bronze.supplier_audit_findings` | 220 | AuditID, SupplierName, AuditDate, AuditType, ComplianceScore, CriticalFindingsCount, PrimaryFindingCategory, Auditor, RemediationDueDate, Status |
 
 ### Silver Layer — Enriched Views
 
@@ -89,26 +90,27 @@ All data lives in `StrategicMaterialsDB`:
 | `Gold.VulnerabilityDashboard` | By mineral type: total volume, avg risk, high-risk volume, high-risk dependence % |
 | `Gold.SupplierRiskSummary` | By supplier: shipment volume, risk score, avg compliance score, total critical findings |
 
-### Catalog IDs (for lineage and reflections)
+### Catalog IDs (for lineage, reflections, wikis)
 
-| Object | Catalog ID |
-|--------|-----------|
-| Gold.VulnerabilityDashboard | 65a450aa-a94e-4999-a4c6-1dd587cc43b7 |
-| Silver.ShipmentRisk | dc5fe946-6f02-471d-ae8c-1192fa2ad1d5 |
+Catalog IDs change each time the space is rebuilt. Always look them up dynamically:
+```bash
+dremio catalog get-by-path "StrategicMaterialsDB/Gold/VulnerabilityDashboard"
+dremio catalog get-by-path "StrategicMaterialsDB/Silver/ShipmentRisk"
+```
 
 ## Workshop Namespace
 
 ```
 StrategicMaterialsDB/
 ├── Bronze/
-│   ├── MineralSources          ← Iceberg table (50 shipment records)
-│   ├── GeopoliticalRiskIndex   ← Iceberg table (10 countries, risk scores 1-10)
-│   └── SupplierAuditFindings   ← Iceberg table (50 audit records)
+│   ├── mineral_sources          ← Iceberg table (500 shipment records)
+│   ├── geopolitical_risk_index  ← Iceberg table (10 countries, risk scores 1-10)
+│   └── supplier_audit_findings  ← Iceberg table (220 audit records)
 ├── Silver/
-│   └── ShipmentRisk            ← View: shipments + risk scores + weighted exposure
+│   └── ShipmentRisk             ← View: shipments + risk scores + weighted exposure
 └── Gold/
-    ├── VulnerabilityDashboard  ← View: mineral risk dependence by type
-    └── SupplierRiskSummary     ← View: supplier risk + compliance combined
+    ├── VulnerabilityDashboard   ← View: mineral risk dependence by type
+    └── SupplierRiskSummary      ← View: supplier risk + compliance combined
 ```
 
 ## Business Context
@@ -149,4 +151,5 @@ Key business questions we are answering:
 - Always show SQL before executing so the user can review it.
 - After creating each object, confirm it worked with a quick SELECT LIMIT 3.
 - Credentials are handled by the Dremio CLI profile — you do not need a PAT or project ID from the user.
+- **If any `dremio` command has already returned results in this session, the connection is live. Do not re-investigate PAT tokens, config files, or API endpoints. Proceed directly to the task.**
 - When creating reflections, do NOT include displayFields for AGGREGATION type — use only dimensionFields and measureFields.
