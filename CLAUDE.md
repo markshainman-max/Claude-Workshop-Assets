@@ -82,13 +82,13 @@ All data lives in `StrategicMaterialsDB`:
 | View | Description |
 |------|-------------|
 | `Silver.ShipmentRisk` | MineralSources joined to GeopoliticalRiskIndex, adds WeightedRiskExposure |
+| `Silver.supplier_audit_mineral_sources` | SupplierAuditFindings joined to MineralSources |
 
 ### Gold Layer — Business Intelligence Views
 
 | View | Description |
 |------|-------------|
 | `Gold.VulnerabilityDashboard` | By mineral type: total volume, avg risk, high-risk volume, high-risk dependence % |
-| `Gold.SupplierRiskSummary` | By supplier: shipment volume, risk score, avg compliance score, total critical findings |
 
 ### Catalog IDs (for lineage, reflections, wikis)
 
@@ -96,6 +96,7 @@ Catalog IDs change each time the space is rebuilt. Always look them up dynamical
 ```bash
 dremio catalog get-by-path "StrategicMaterialsDB/Gold/VulnerabilityDashboard"
 dremio catalog get-by-path "StrategicMaterialsDB/Silver/ShipmentRisk"
+dremio catalog get-by-path "StrategicMaterialsDB/Silver/supplier_audit_mineral_sources"
 ```
 
 ## Workshop Namespace
@@ -107,10 +108,10 @@ StrategicMaterialsDB/
 │   ├── geopolitical_risk_index  ← Iceberg table (10 countries, risk scores 1-10)
 │   └── supplier_audit_findings  ← Iceberg table (220 audit records)
 ├── Silver/
-│   └── ShipmentRisk             ← View: shipments + risk scores + weighted exposure
+│   ├── ShipmentRisk                    ← View: shipments + risk scores + weighted exposure
+│   └── supplier_audit_mineral_sources  ← View: audit findings joined to mineral sources
 └── Gold/
-    ├── VulnerabilityDashboard   ← View: mineral risk dependence by type
-    └── SupplierRiskSummary      ← View: supplier risk + compliance combined
+    └── VulnerabilityDashboard          ← View: mineral risk dependence by type
 ```
 
 ## Business Context
