@@ -43,7 +43,7 @@ Lineage \-
 Reflections \-
 
 1. Show Customer 360 data set \- Now lets look at the customer 360 data set that is the sample data set that comes pre-configured on Dremio Cloud.  \-  177Million orders and 4.8 million customers  
-2. Join data without the reflection \- “s”  
+2. Join data without the reflection \- “ in the customer36 data set show me total orders and total revenue by customer joining the orders and custoemrs table and time it”  
 3.  Create a Reflection  \-“Create an aggregation reflection on the Customer360 orders table to pre-materialize it.”  
 4. Check if the reflection is built “Check the status of the reflection,  is it ready yet?"  
 5. Run query with the reflection “Run the same membership tier query again and time it.”  
